@@ -1,0 +1,10 @@
+channels:
+- conda-forge
+- nodefaults
+
+dependencies:
+- jupyterhub-singleuser>=3.0
+- jupyter-rsession-proxy>=2
+- nbgitpuller>=1.1.1
+- jupyterlab>=3.0
+- retrolab
