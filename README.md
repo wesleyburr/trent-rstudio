@@ -19,4 +19,10 @@ There is a dirty, dirty hack in this image: getting a specific singleuser KubeSp
 
 This image is on dockerhub as wesleyburr/trent-rstudio, with the latest version as of this commit of 20230826.
 
+### Full Credit
+
+The version that finally worked for me was taken from [Yuvi's Guide](https://jupyterhub-image.guide/rocker.html),
+with some post hoc finesse and dirty, dirty hacking to get it work the way I wanted. All credit to him
+for working instructions. 
+
 
